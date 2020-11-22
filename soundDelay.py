@@ -83,3 +83,5 @@ st.write(discrepancy_percentage_of_beat)
 
 st.write('### Adjustment needed')
 st.write(f'{adjustment} note {ahead_or_behind}')
+
+st.write('[Link to Github Repo](https://github.com/hcussen/SoundDelay)')
